@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 191977e876a7f9f4995d11298e8d033f, type: 3}
+  m_Name: Game_Settings
+  m_EditorClassIdentifier: 
+  _difficultyLevels: 3
+  _sriteSet:
+  - {fileID: 1422184923334757970, guid: 94ec56f23bb9fa340af3143d18065ddf, type: 3}
+  - {fileID: 1808195818850983521, guid: 94ec56f23bb9fa340af3143d18065ddf, type: 3}
+  - {fileID: -7900951133411543555, guid: 94ec56f23bb9fa340af3143d18065ddf, type: 3}
+  - {fileID: 2267071060405275165, guid: 94ec56f23bb9fa340af3143d18065ddf, type: 3}
+  - {fileID: -7398325283844340781, guid: 94ec56f23bb9fa340af3143d18065ddf, type: 3}
+  - {fileID: -7015292045520539579, guid: 94ec56f23bb9fa340af3143d18065ddf, type: 3}
+  - {fileID: -6026771623272699907, guid: 8bcf9c1ada351624aaa93575d2933418, type: 3}
+  - {fileID: 5509068565013769818, guid: 8bcf9c1ada351624aaa93575d2933418, type: 3}
+  - {fileID: -1155199509967091035, guid: 8816f7b4cee57464799c81559f92eea5, type: 3}
+  - {fileID: 4142021021139464533, guid: 7045522237d29904a8a10acca083c953, type: 3}
+  _gridRowsStart: 1
+  _gridColsStart: 3
+  _gridRowsIncome: 1
+  _gridColsIncome: 0
